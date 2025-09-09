@@ -4,7 +4,7 @@ public class LatihanBab2 {
 
 	public static void main(String[] args) {
 		
-		//deklarasi dan sekaligus inisialisasi variabel
+		// Deklarasi dan inisialisasi nilai variabel
         String nama = "Gary Andreas";
         final long nim = 2407114280L;
         double[] ip = {3.55, 2.65};
@@ -13,7 +13,8 @@ public class LatihanBab2 {
         String alamat = "Jalan HR. Soebrantas";
         byte ipByte = (byte) ip[0];
 
-        //print biodata
+        // Output
+        System.out.println("---Data Mahasiswa---");
         System.out.println("Nama: "+ nama);
         System.out.println("NIM: "+ nim);
         System.out.println("IP Semester 1: "+ ip[0]);
