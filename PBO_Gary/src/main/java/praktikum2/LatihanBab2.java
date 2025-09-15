@@ -4,7 +4,7 @@ public class LatihanBab2 {
 
 	public static void main(String[] args) {
 		
-		// Deklarasi dan inisialisasi nilai variabel
+	// Deklarasi dan inisialisasi nilai variabel
         String nama = "Gary Andreas";
         final long nim = 2407114280L;
         double[] ip = {3.55, 2.65};
